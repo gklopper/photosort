@@ -1,4 +1,4 @@
-package foo
+package copy
 
 import java.io.File
 
